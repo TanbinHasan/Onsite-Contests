@@ -1,0 +1,4 @@
+1 . UVa 11565 - Simple Equations
+2 . UVa 11742 - Social Constraints
+3 . UVa 12455 - Bars
+4 . UVa 750 - 8 Queens Chess Problem
